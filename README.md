@@ -1,6 +1,6 @@
 # 💫 Sobre mí:
 🌱 Actualmente estoy aprendiendo desarrollo web.
-[❤️](https://instagram.com/yago_candujar)
+
 
 ## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yago_xdidi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yago_candujar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yago-catalano-and%C3%BAjar-24216828a/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yago_xdidi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ycatalanoa) 
