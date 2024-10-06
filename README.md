@@ -118,10 +118,10 @@
 <img src="https://raw.githubusercontent.com/PedroJSanchezUtrero/PedroJSanchezUtrero/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BorjaDelgado37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=BorjaDelgado37&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CatanduYago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=CatanduYago&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BorjaDelgado37&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CatanduYago&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
