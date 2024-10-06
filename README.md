@@ -35,14 +35,7 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano)](https://open.spotify.com/user/yago_xdidi)
 
-
-<p align="left">
-  ⚠️ I started hacking about 4 or 5 years ago creating my first camfish, some keyloggers and many phishing pages without leaving aside my msfvenom controlling mobile devices (all of this is in controlled environments😉).<br>
-  📚 I'm currently learning Cybersecurity basics and studying web development in IES CASTELAR. It's my second year... I'll start with my TFG (university final project).<br>
-  🎲 In my free time, I like to play Valorant from time to time. I also record with my drone and really enjoy the forest... basically, activities that allow me to relax and relieve my mind.
-</p>
-
-<div align="center">
+<div align="right">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726314598929?e=1733356800&v=beta&t=3PlrjBtJdz4C1Lb89SpDkui3uIzpqughdteqg4qyML4" alt="Photo" style="border-radius: 500px;">
 </div>
 
