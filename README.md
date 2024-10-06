@@ -32,14 +32,16 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
 
-<div align="left" width="fit-content"> 
-  
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano) 
-  
-</div>
-<div align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726314598929?e=1733356800&v=beta&t=3PlrjBtJdz4C1Lb89SpDkui3uIzpqughdteqg4qyML4" alt="Photo">
+  <div>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div>
+    <img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726314598929?e=1733356800&v=beta&t=3PlrjBtJdz4C1Lb89SpDkui3uIzpqughdteqg4qyML4" alt="Photo">
+  </div>
+  
 </div>
 
 
