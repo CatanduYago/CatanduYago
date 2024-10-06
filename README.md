@@ -32,12 +32,14 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
 
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano)](https://open.spotify.com/user/yago_xdidi)
+<div align="left">
+  
+  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano)](https://open.spotify.com/user/yago_xdidi)
 
 ![Photo](https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726314598929?e=1733356800&v=beta&t=3PlrjBtJdz4C1Lb89SpDkui3uIzpqughdteqg4qyML4)
 
-<br clear="both">
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CatanduYago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
