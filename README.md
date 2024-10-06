@@ -32,10 +32,10 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div display= "flex" justify-content= "space-between"  align-items=" center">
 
   <div>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" style="max-width: 100%; height: auto;">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height= "auto">
   </div>
 
   <div>
