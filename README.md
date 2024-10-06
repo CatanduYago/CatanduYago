@@ -34,7 +34,7 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
 
 <div display= "flex" flex-direction="row"  align-items=" center">
 
-  <div>
+  <div width= "fit-content">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height= "auto">
   </div>
 
