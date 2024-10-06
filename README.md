@@ -33,9 +33,8 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
 </p>
 
 
-<a href="https://open.spotify.com/user/yago_xdidi">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano)
-</a>
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano)](https://open.spotify.com/user/yago_xdidi)
+
 
 <p align="left">
   ⚠️ I started hacking about 4 or 5 years ago creating my first camfish, some keyloggers and many phishing pages without leaving aside my msfvenom controlling mobile devices (all of this is in controlled environments😉).<br>
