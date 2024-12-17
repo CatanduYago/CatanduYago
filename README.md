@@ -44,7 +44,7 @@ Soy una persona muy autodidacta con ganas de aprender y gran capacidad de lidera
 
 <div display= "flex" flex-direction="row"  align-items=" center">
    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height= "auto">
-   <img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726314598929?e=1733356800&v=beta&t=3PlrjBtJdz4C1Lb89SpDkui3uIzpqughdteqg4qyML4" alt="Photo" align="right">
+   <img height="200" src="https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726314598956?e=1740009600&v=beta&t=qnXpuglfcoGSf7088b4Mmt86v3bH81qUZldoftugvo0" alt="Photo" align="right">
   
 </div>
 
