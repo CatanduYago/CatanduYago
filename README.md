@@ -48,14 +48,14 @@
 <h2 align="center">📈 Estadísticas</h2>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height="auto">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CatanduYago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" alt="Top Langs" />
   <img src="https://streak-stats.demolab.com?user=CatanduYago&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CatanduYago&radius=16&theme=react&area=true&order=5" height="300" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height="auto">
 </p>
