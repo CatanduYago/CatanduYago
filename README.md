@@ -54,4 +54,10 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height="auto">
 </p>
 
+<hr>
 
+<h2 align="center">🌐 Enlace a mi Portafolio</h2>
+
+<p align="center">
+  <a href="https://catanduyago.github.io/">Visita mi portafolio en GitHub Pages</a>
+</p>
