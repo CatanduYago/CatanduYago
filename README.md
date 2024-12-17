@@ -42,7 +42,7 @@
 <h2 align="center">🌐 Enlace a mi Portafolio</h2>
 
 <p align="center">
-  <a href="https://catanduyago.github.io/">Visita mi portafolio en GitHub Pages</a>
+  <a target="_blank" href="https://catanduyago.github.io/portfolio/">Visita mi portafolio en GitHub Pages</a>
 </p>
 
 <hr>
