@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQETQzCVkICC_Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726314598929?e=1746057600&v=beta&t=enk7v5tNRUmzrLclrmthyYkmhbxiw76Pq2LOofExzIg" alt="Yago Catalano" width="200">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQE_uU3EBWUYag/profile-displayphoto-shrink_800_800/B4EZbgJNSZHAAc-/0/1747517233398?e=1753315200&v=beta&t=s1qPBr5l-tvfVqK4JC7xJVxmTMXQSOfMtqoKi7EcckM" alt="Yago Catalano" width="200">
 </p>
 
 <h2 align="center">Mi nombre es <strong>Yago Catalano Andújar</strong>, desarrollador web en formación.</h2>
