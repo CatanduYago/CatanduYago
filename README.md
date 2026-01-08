@@ -4,10 +4,10 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQE_uU3EBWUYag/profile-displayphoto-shrink_800_800/B4EZbgJNSZHAAc-/0/1747517233398?e=1753315200&v=beta&t=s1qPBr5l-tvfVqK4JC7xJVxmTMXQSOfMtqoKi7EcckM" alt="Yago Catalano" width="200">
 </p>
 
-<h2 align="center">Mi nombre es <strong>Yago Catalano Andújar</strong>, desarrollador web en formación.</h2>
+<h2 align="center">Mi nombre es <strong>Yago Catalano Andújar</strong> y soy desarrollador web.</h2>
 
 <p align="center">
-  Soy estudiante de Desarrollo de Aplicaciones Web en el IES Castelar. Soy una persona autodidacta con ganas de aprender y con gran capacidad de liderazgo cuando es necesario.
+  Titulado en Desarrollo de Aplicaciones Web en el IES Castelar y medalla de oro en Extremadura Skills 2025. Soy una persona autodidacta con ganas de aprender y con gran capacidad de liderazgo cuando es necesario.
 </p>
 
 <hr>
