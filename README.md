@@ -1,13 +1,9 @@
-<h1 align="center">¡Hola! 👋</h1>
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQE_uU3EBWUYag/profile-displayphoto-shrink_200_200/B4EZbgJNSZHAAY-/0/1747517233324?e=1769644800&v=beta&t=4QO0ah0mqMwXyYoykJZgjOwg_Jz1jYFkl-qTlLDSZOg" alt="Yago Catalano" width="200">
-</p>
+<h1 align="center">Alo!</h1>
 
 <h2 align="center">Mi nombre es <strong>Yago Catalano Andújar</strong> y soy desarrollador web.</h2>
 
 <p align="center">
-  Titulado en Desarrollo de Aplicaciones Web en el IES Castelar y medalla de oro en Extremadura Skills 2025. Soy una persona autodidacta con ganas de aprender y con gran capacidad de liderazgo cuando es necesario.
+  Titulado en Desarrollo de Aplicaciones Web y finalista en SpainSkills 2026. Soy una persona autodidacta con ganas de aprender y con gran capacidad de liderazgo cuando es necesario.
 </p>
 
 <hr>
