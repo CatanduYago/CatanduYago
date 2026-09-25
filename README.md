@@ -38,7 +38,7 @@
 <h2 align="center">🌐 Enlace a mi Portafolio</h2>
 
 <p align="center">
-  Visita mi <a target="_blank" href="https://catanduyago.github.io/portfolio/">portoflio</a> online desplegado en GitHub Pages
+  Visita mi <a target="_blank" href="https://catanduyago.duckdns.org/">portoflio</a> online.
 </p>
 
 <hr>
