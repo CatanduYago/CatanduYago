@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yago-catalano" alt="Spotify" height="auto">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=yago-catalano" alt="Spotify" height="auto">
 </p>
 
 
